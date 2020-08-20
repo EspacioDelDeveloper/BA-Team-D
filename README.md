@@ -4,11 +4,11 @@
  
  Entorno de trabajo:
  
- OS: Ubuntu 20.04.1 LTS
- Python 3.8.2
- Django 3.0.8
- Pillow 7.0.0
- No se utilizó virtualenv
+ - OS: Ubuntu 20.04.1 LTS
+ - Python 3.8.2
+ - Django 3.0.8
+ - Pillow 7.0.0
+ - No se utilizó virtualenv
  
  El Proyecto se organiza en 4 apps distintas:
  - Core
